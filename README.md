@@ -1,5 +1,7 @@
-# primer_repositorio
-Prueba de primer repositorio
+## Cristian Tellez
 
+Mi primer repositorio
 
-este es un mensaje para mi compañero son mas archivos no solo uno vale
+ * hola
+
+***como estas***
