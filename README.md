@@ -39,5 +39,5 @@ comandos clase
 * Ver diferencias entre ramas
 *** git diff rama_1..rama_2 ***
 >>>>>>> <<<<<<<
-* Actualizar una rama con otra
+* Actualizar una rama con otra  Cambios
 *** git pull origin nombre_rama ***
