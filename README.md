@@ -32,12 +32,21 @@ comandos clase
 * Cambiar una rama
 *** git checkout nombre_rama ***
 *** git checkout nombre_rama ***
+<<<<<<< HEAD
 <<<<<<< head ------
+=======
+<<<<<<< head >>>>>>> -----
+>>>>>>> d85b4e22a3f396ed6633a777a39dbe24a5960af0
 * Ver diferencias entre ramas
 *** git diff rama_1..rama_2 ***
 -------
 * Ver diferencias entre ramas
 *** git diff rama_1..rama_2 ***
+<<<<<<< HEAD
 >>>>>>>
 * Actualizar una rama con otra Cambio2 
+=======
+>>>>>>> <<<<<<<
+* Actualizar una rama con otra  Cambios
+>>>>>>> d85b4e22a3f396ed6633a777a39dbe24a5960af0
 *** git pull origin nombre_rama ***
